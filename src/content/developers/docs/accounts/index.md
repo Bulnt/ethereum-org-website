@@ -108,7 +108,7 @@ Watch Austin walk you through hash functions, and key pairs.
 <YouTube id="QJ010l-pBpE" />
 
 <YouTube id="9LtBDy67Tho" />
-
+ 
 ## Further reading {#further-reading}
 
 _Know of a community resource that helped you? Edit this page and add it!_
